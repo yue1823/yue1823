@@ -2,6 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yue1823&label=Profile%20views&color=0e75b6&style=flat" alt="yue1823" /> </p>
 
+- google cloud [https://www.cloudskillsboost.google/public_profiles/fbcc2756-ce8f-4691-955a-4e33b5663ade](https://www.cloudskillsboost.google/public_profiles/fbcc2756-ce8f-4691-955a-4e33b5663ade)
 
 <p align="left">
 </p>
