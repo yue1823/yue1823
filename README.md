@@ -8,6 +8,12 @@
   <p><img src="https://academy.hackthebox.com/storage/badges/playing-with-the-mess.png" alt="python" width="80" height="80"/>Playing with the mess</p>
   <p></p>
 
+## What am i did
+
++ hackathon of aptos BGA 1st - diffusion
++ Edit aptos dev documents
++ join aptos code collision
+  
 <p align="left">
 </p>
 
